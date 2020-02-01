@@ -43,7 +43,9 @@ If we implement the sequence normally with 'For loop', it will give us 100 for 1
 99.99995
 100
 
+
 But this answer is **wrong**.
+
 
 If the relation is implemented recurrently, It will not converge for more than 50 and the system is **unstable**.
 
