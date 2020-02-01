@@ -17,11 +17,11 @@ To get a better condition for calculating a minimal solution of a three-term rec
 The most challenging part of this assigment is **floating point calculations**.
 If we implement the sequence normally with 'For loop', it will give us 100 for 100th value.
 
-2
--4
-18.5
-9.378378
-7.801153
+2<br/>
+-4<br/>
+18.5<br/>
+9.378378<br/>
+7.801153<br/>
 7.154414
 6.806785
 6.592633
